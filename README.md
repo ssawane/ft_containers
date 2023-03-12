@@ -7,7 +7,7 @@ Those containers are :
 - map
 - set
 
-In addition to this, some extra features and utilities are expected to be reimplemented, as:
+In addition to this, reimplemented some extra features and utilities, as:
 
 - iterator_traits
 - reverse_iterator
