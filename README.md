@@ -1,5 +1,5 @@
 # ft_containers
-In this project, reimplemented some of the STL containers, defined by the ISO 1998.
+In this project, we reimplemented some of the STL containers, defined by the ISO 1998.
 Those containers are :
 
 - vector
